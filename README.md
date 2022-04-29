@@ -1,7 +1,5 @@
 # ComputerScience
 
-깃허브에 오픈된 repository와 컴공 인강으로 공부하기 위한  
-
 Computer Science 정리노트입니다.  
 
 <br>
