@@ -1,6 +1,6 @@
 # ComputerScience
 
-Computer Science 정리노트입니다.  
+컴공기초 정리노트입니다.  
 
 <br>
 
